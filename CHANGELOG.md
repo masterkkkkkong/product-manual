@@ -22,3 +22,8 @@
 | obsidian | 本地知识管理工具 |
 | pip | Python 包管理器 |
 | python-venv | Python 虚拟环境工具 |
+
+### README 优化
+- **目录精简**：README 中的产品列表改为只展示**最近更新的前10个**，加上了 `更新时间` 列
+- **完整列表**：查看更多请直接访问 `ProductList/` 目录和 `CHANGELOG.md`
+- **约定**：以后每天新增工具时，README 只保留最新的10条记录，新增的排在最前面
