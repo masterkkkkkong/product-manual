@@ -26,6 +26,9 @@
 | [pip](./pip) | 📦 包管理 | Python 官方包管理器，安装第三方库 |
 | [Markdown](./markdown) | 📝 文档 | 轻量级标记语言，写文档、笔记的通用格式 |
 | [Obsidian](./obsidian) | 📝 笔记 | 本地优先的 Markdown 笔记应用，构建个人知识库 |
+| [curl](./curl) | 🌐 网络工具 | 命令行 HTTP 请求工具，测试 API、下载文件 |
+| [jq](./jq) | 🛠 数据处理 | 命令行 JSON 处理器，解析和过滤 JSON 数据 |
+| [Python venv](./python-venv) | 🐍 环境管理 | Python 虚拟环境，隔离项目依赖 |
 
 > 每天新增 2-3 个工具 🔄
 
