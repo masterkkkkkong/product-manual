@@ -23,6 +23,9 @@
 
 | 工具 | 类别 | 简介 | 更新时间 |
 |------|------|------|---------|
+| [Homebrew](./ProductList/homebrew.md) | 📦 包管理 | macOS 包管理器，一键安装开发工具和软件 | 2026-05-14 |
+| [Docker](./ProductList/docker.md) | 🐍 环境管理 | 容器化应用平台，解决环境一致性问题 | 2026-05-14 |
+| [VS Code](./ProductList/vscode.md) | ✏️ 编辑器 | 微软出品的轻量级代码编辑器，扩展生态丰富 | 2026-05-14 |
 | [Git](./ProductList/git.md) | 🛠 版本控制 | 分布式版本控制系统，追踪代码的每一次修改 | 2026-05-13 |
 | [npm](./ProductList/npm.md) | 📦 包管理 | Node.js 包管理器，安装管理 JavaScript 依赖 | 2026-05-13 |
 | [pip](./ProductList/pip.md) | 📦 包管理 | Python 官方包管理器，安装第三方库 | 2026-05-13 |
@@ -30,7 +33,6 @@
 | [Obsidian](./ProductList/obsidian.md) | 📝 笔记 | 本地优先的 Markdown 笔记应用，构建个人知识库 | 2026-05-13 |
 | [curl](./ProductList/curl.md) | 🌐 网络工具 | 命令行 HTTP 请求工具，测试 API、下载文件 | 2026-05-13 |
 | [jq](./ProductList/jq.md) | 🛠 数据处理 | 命令行 JSON 处理器，解析和过滤 JSON 数据 | 2026-05-13 |
-| [Python venv](./ProductList/python-venv.md) | 🐍 环境管理 | Python 虚拟环境，隔离项目依赖 | 2026-05-13 |
 
 > 每天新增 2-3 个工具 🔄 · 最新工具排在最前面
 
