@@ -21,14 +21,14 @@
 
 | 工具 | 类别 | 简介 |
 |------|------|------|
-| [Git](./git) | 🛠 版本控制 | 分布式版本控制系统，追踪代码的每一次修改 |
-| [npm](./npm) | 📦 包管理 | Node.js 包管理器，安装管理 JavaScript 依赖 |
-| [pip](./pip) | 📦 包管理 | Python 官方包管理器，安装第三方库 |
-| [Markdown](./markdown) | 📝 文档 | 轻量级标记语言，写文档、笔记的通用格式 |
-| [Obsidian](./obsidian) | 📝 笔记 | 本地优先的 Markdown 笔记应用，构建个人知识库 |
-| [curl](./curl) | 🌐 网络工具 | 命令行 HTTP 请求工具，测试 API、下载文件 |
-| [jq](./jq) | 🛠 数据处理 | 命令行 JSON 处理器，解析和过滤 JSON 数据 |
-| [Python venv](./python-venv) | 🐍 环境管理 | Python 虚拟环境，隔离项目依赖 |
+| [Git](./ProductList/git.md) | 🛠 版本控制 | 分布式版本控制系统，追踪代码的每一次修改 |
+| [npm](./ProductList/npm.md) | 📦 包管理 | Node.js 包管理器，安装管理 JavaScript 依赖 |
+| [pip](./ProductList/pip.md) | 📦 包管理 | Python 官方包管理器，安装第三方库 |
+| [Markdown](./ProductList/markdown.md) | 📝 文档 | 轻量级标记语言，写文档、笔记的通用格式 |
+| [Obsidian](./ProductList/obsidian.md) | 📝 笔记 | 本地优先的 Markdown 笔记应用，构建个人知识库 |
+| [curl](./ProductList/curl.md) | 🌐 网络工具 | 命令行 HTTP 请求工具，测试 API、下载文件 |
+| [jq](./ProductList/jq.md) | 🛠 数据处理 | 命令行 JSON 处理器，解析和过滤 JSON 数据 |
+| [Python venv](./ProductList/python-venv.md) | 🐍 环境管理 | Python 虚拟环境，隔离项目依赖 |
 
 > 每天新增 2-3 个工具 🔄
 
@@ -41,13 +41,14 @@
 ## 🔍 如何使用
 
 ### 方式一：在 GitHub 上直接浏览
-点进上面的目录，每个工具一个文件夹，README.md 就是手册内容。
+点开 `ProductList/` 目录，每个工具一个 Markdown 文件，内容就是使用手册。`README.md` 是本仓库的索引。
 
 ### 方式二：克隆到本地
 ```bash
 git clone git@github.com:masterkkkkkong/product-manual.git
 cd product-manual
-# 然后直接用浏览器或编辑器打开
+# ProductList/ 目录下是所有工具手册
+# 直接用浏览器或编辑器打开即可
 ```
 
 ### 方式三：搭配 Obsidian 使用
