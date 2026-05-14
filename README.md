@@ -23,6 +23,9 @@
 
 | 工具 | 类别 | 简介 | 更新时间 |
 |------|------|------|---------|
+| [Jupyter Notebook](./ProductList/jupyter-notebook.md) | 🤖 AI 工具 | 交互式编程环境，在浏览器中混合代码、图表和文字 | 2026-05-15 |
+| [SSH](./ProductList/ssh.md) | 🌐 网络工具 | 安全远程连接工具，加密登录服务器和执行命令 | 2026-05-15 |
+| [cron](./ProductList/cron.md) | ⏰ 定时任务 | 定时任务调度工具，自动化执行脚本和运维 | 2026-05-15 |
 | [Homebrew](./ProductList/homebrew.md) | 📦 包管理 | macOS 包管理器，一键安装开发工具和软件 | 2026-05-14 |
 | [Docker](./ProductList/docker.md) | 🐍 环境管理 | 容器化应用平台，解决环境一致性问题 | 2026-05-14 |
 | [VS Code](./ProductList/vscode.md) | ✏️ 编辑器 | 微软出品的轻量级代码编辑器，扩展生态丰富 | 2026-05-14 |
@@ -30,9 +33,6 @@
 | [npm](./ProductList/npm.md) | 📦 包管理 | Node.js 包管理器，安装管理 JavaScript 依赖 | 2026-05-13 |
 | [pip](./ProductList/pip.md) | 📦 包管理 | Python 官方包管理器，安装第三方库 | 2026-05-13 |
 | [Markdown](./ProductList/markdown.md) | 📝 文档 | 轻量级标记语言，写文档、笔记的通用格式 | 2026-05-13 |
-| [Obsidian](./ProductList/obsidian.md) | 📝 笔记 | 本地优先的 Markdown 笔记应用，构建个人知识库 | 2026-05-13 |
-| [curl](./ProductList/curl.md) | 🌐 网络工具 | 命令行 HTTP 请求工具，测试 API、下载文件 | 2026-05-13 |
-| [jq](./ProductList/jq.md) | 🛠 数据处理 | 命令行 JSON 处理器，解析和过滤 JSON 数据 | 2026-05-13 |
 
 > 每天新增 2-3 个工具 🔄 · 最新工具排在最前面
 
