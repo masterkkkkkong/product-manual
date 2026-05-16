@@ -23,6 +23,9 @@
 
 | 工具 | 类别 | 简介 | 更新时间 |
 |------|------|------|---------|
+| [zsh](./ProductList/zsh.md) | 🖥 命令行 | macOS 默认 Shell，自动补全、主题美化、批量文件操作 | 2026-05-17 |
+| [Regex](./ProductList/regex.md) | 📝 文本处理 | 正则表达式，用模式匹配快速搜索、替换和提取文本 | 2026-05-17 |
+| [ngrok](./ProductList/ngrok.md) | 🌐 网络工具 | 内网穿透工具，将本地服务暴露出公网 URL 用于调试 | 2026-05-17 |
 | [tmux](./ProductList/tmux.md) | 🖥 命令行 | 终端复用器，分屏、持久化会话、多任务管理 | 2026-05-16 |
 | [SQLite](./ProductList/sqlite.md) | 🗄 数据库 | 零配置嵌入式数据库，数据存为单一文件 | 2026-05-16 |
 | [scp/rsync](./ProductList/scp-rsync.md) | 🌐 网络工具 | 文件传输与同步工具，支持远程拷贝和增量备份 | 2026-05-16 |
@@ -30,9 +33,6 @@
 | [SSH](./ProductList/ssh.md) | 🌐 网络工具 | 安全远程连接工具，加密登录服务器和执行命令 | 2026-05-15 |
 | [cron](./ProductList/cron.md) | ⏰ 定时任务 | 定时任务调度工具，自动化执行脚本和运维 | 2026-05-15 |
 | [Homebrew](./ProductList/homebrew.md) | 📦 包管理 | macOS 包管理器，一键安装开发工具和软件 | 2026-05-14 |
-| [Docker](./ProductList/docker.md) | 🐍 环境管理 | 容器化应用平台，解决环境一致性问题 | 2026-05-14 |
-| [VS Code](./ProductList/vscode.md) | ✏️ 编辑器 | 微软出品的轻量级代码编辑器，扩展生态丰富 | 2026-05-14 |
-| [Markdown](./ProductList/markdown.md) | 📝 文档 | 轻量级标记语言，写文档、笔记的通用格式 | 2026-05-13 |
 
 > 每天新增 2-3 个工具 🔄 · 最新工具排在最前面
 
