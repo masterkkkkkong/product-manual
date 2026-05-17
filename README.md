@@ -21,18 +21,18 @@
 
 > 完整列表见 [ProductList/](./ProductList/) 目录 · CHANGELOG 见 [CHANGELOG.md](./CHANGELOG.md)
 
-| 工具 | 类别 | 简介 | 更新时间 |
-|------|------|------|---------|
-| [zsh](./ProductList/zsh.md) | 🖥 命令行 | macOS 默认 Shell，自动补全、主题美化、批量文件操作 | 2026-05-17 |
-| [Regex](./ProductList/regex.md) | 📝 文本处理 | 正则表达式，用模式匹配快速搜索、替换和提取文本 | 2026-05-17 |
-| [ngrok](./ProductList/ngrok.md) | 🌐 网络工具 | 内网穿透工具，将本地服务暴露出公网 URL 用于调试 | 2026-05-17 |
-| [tmux](./ProductList/tmux.md) | 🖥 命令行 | 终端复用器，分屏、持久化会话、多任务管理 | 2026-05-16 |
-| [SQLite](./ProductList/sqlite.md) | 🗄 数据库 | 零配置嵌入式数据库，数据存为单一文件 | 2026-05-16 |
-| [scp/rsync](./ProductList/scp-rsync.md) | 🌐 网络工具 | 文件传输与同步工具，支持远程拷贝和增量备份 | 2026-05-16 |
-| [Jupyter Notebook](./ProductList/jupyter-notebook.md) | 🤖 AI 工具 | 交互式编程环境，在浏览器中混合代码、图表和文字 | 2026-05-15 |
-| [SSH](./ProductList/ssh.md) | 🌐 网络工具 | 安全远程连接工具，加密登录服务器和执行命令 | 2026-05-15 |
-| [cron](./ProductList/cron.md) | ⏰ 定时任务 | 定时任务调度工具，自动化执行脚本和运维 | 2026-05-15 |
-| [Homebrew](./ProductList/homebrew.md) | 📦 包管理 | macOS 包管理器，一键安装开发工具和软件 | 2026-05-14 |
+|| 工具 | 类别 | 简介 | 更新时间 |
+||------|------|------|---------|
+|| [Chrome DevTools](./ProductList/chrome-devtools.md) | 🔧 效率工具 | 浏览器开发者工具，调试 HTML/CSS/JS、分析性能、监控网络 | 2026-05-18 |
+|| [iTerm2](./ProductList/iterm2.md) | 🖥 命令行 | macOS 终端增强，分屏、热键窗口、搜索、配置文件管理 | 2026-05-18 |
+|| [Conda](./ProductList/conda.md) | 🐍 编程语言 | 跨平台包管理和虚拟环境，数据科学场景首选 | 2026-05-18 |
+|| [zsh](./ProductList/zsh.md) | 🖥 命令行 | macOS 默认 Shell，自动补全、主题美化、批量文件操作 | 2026-05-17 |
+|| [Regex](./ProductList/regex.md) | 📝 文本处理 | 正则表达式，用模式匹配快速搜索、替换和提取文本 | 2026-05-17 |
+|| [ngrok](./ProductList/ngrok.md) | 🌐 网络工具 | 内网穿透工具，将本地服务暴露出公网 URL 用于调试 | 2026-05-17 |
+|| [tmux](./ProductList/tmux.md) | 🖥 命令行 | 终端复用器，分屏、持久化会话、多任务管理 | 2026-05-16 |
+|| [SQLite](./ProductList/sqlite.md) | 🗄 数据库 | 零配置嵌入式数据库，数据存为单一文件 | 2026-05-16 |
+|| [scp/rsync](./ProductList/scp-rsync.md) | 🌐 网络工具 | 文件传输与同步工具，支持远程拷贝和增量备份 | 2026-05-16 |
+|| [Jupyter Notebook](./ProductList/jupyter-notebook.md) | 🤖 AI 工具 | 交互式编程环境，在浏览器中混合代码、图表和文字 | 2026-05-15 |
 
 > 每天新增 2-3 个工具 🔄 · 最新工具排在最前面
 
