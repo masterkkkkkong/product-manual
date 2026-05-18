@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-19
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| Postman | API 调试与测试工具，发送 HTTP 请求、编写接口测试、管理 API 文档 |
+| Tableau Public | 免费数据可视化平台，拖拽式创建交互式图表和仪表板 |
+| Streamlit | Python 快速构建数据应用，纯代码生成交互式 Web 界面 |
+
+### README 更新
+
+- 新增 Postman、Tableau Public、Streamlit 三条记录（排在最前面）
+- 因达到 10 条限制，移除 SQLite、scp/rsync、Jupyter Notebook 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-18
 
 ### 新增工具（3 个）
