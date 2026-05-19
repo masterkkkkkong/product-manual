@@ -4,20 +4,38 @@
 
 ---
 
+## 2026-05-20
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[ollama]] | 本地运行大模型，一条命令下载并对话 LLM，完全离线免费 |
+| [[gh]] | 在终端中管理 GitHub 仓库、Issue、PR、Actions，无需离开命令行 |
+| [[uv]] | 用 Rust 写的超快 Python 包管理器，替代 pip/poetry/venv，快 10-100 倍 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/ollama|Ollama]]、[[Product manual/ProductList/gh|GitHub CLI]]、[[Product manual/ProductList/uv|UV]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/tmux|tmux]]、[[Product manual/ProductList/ngrok|ngrok]]、[[Product manual/ProductList/regex|Regex]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-19
 
 ### 新增工具（3 个）
 
 | 产品 | 说明 |
 |------|------|
-| Postman | API 调试与测试工具，发送 HTTP 请求、编写接口测试、管理 API 文档 |
-| Tableau Public | 免费数据可视化平台，拖拽式创建交互式图表和仪表板 |
-| Streamlit | Python 快速构建数据应用，纯代码生成交互式 Web 界面 |
+| [[postman]] | API 调试与测试工具，发送 HTTP 请求、编写接口测试、管理 API 文档 |
+| [[tableau-public]] | 免费数据可视化平台，拖拽式创建交互式图表和仪表板 |
+| [[streamlit]] | Python 快速构建数据应用，纯代码生成交互式 Web 界面 |
 
 ### README 更新
 
-- 新增 Postman、Tableau Public、Streamlit 三条记录（排在最前面）
-- 因达到 10 条限制，移除 SQLite、scp/rsync、Jupyter Notebook 条目（最旧记录）
+- 新增 [[Product manual/ProductList/postman|Postman]]、[[Product manual/ProductList/tableau-public|Tableau Public]]、[[Product manual/ProductList/streamlit|Streamlit]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/sqlite|SQLite]]、[[Product manual/ProductList/scp-rsync|scp/rsync]]、[[Product manual/ProductList/jupyter-notebook|Jupyter Notebook]] 条目（最旧记录）
 - 完整内容仍可通过 `ProductList/` 目录访问
 
 ---
@@ -26,16 +44,16 @@
 
 ### 新增工具（3 个）
 
-| 产品 | 说明 |
-|------|------|
-| Chrome DevTools | 浏览器开发者工具，调试 HTML/CSS/JS、分析性能、监控网络 |
-| iTerm2 | macOS 终端增强，分屏、热键窗口、搜索、配置文件管理 |
-| Conda | 跨平台包管理和虚拟环境，数据科学场景首选 |
+| 产品                  | 说明                                |
+| ------------------- | --------------------------------- |
+| [[chrome-devtools]] | 浏览器开发者工具，调试 HTML/CSS/JS、分析性能、监控网络 |
+| [[iterm2]]          | macOS 终端增强，分屏、热键窗口、搜索、配置文件管理      |
+| [[conda]]           | 跨平台包管理和虚拟环境，数据科学场景首选              |
 
 ### README 更新
 
-- 新增 Chrome DevTools、iTerm2、Conda 三条记录（排在最前面）
-- 因达到 10 条限制，移除 SSH、cron、Homebrew 条目（最旧记录）
+- 新增 [[Product manual/ProductList/chrome-devtools|Chrome DevTools]]、[[Product manual/ProductList/iterm2|iTerm2]]、[[Product manual/ProductList/conda|Conda]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/ssh|SSH]]、[[Product manual/ProductList/cron|cron]]、[[Product manual/ProductList/homebrew|Homebrew]] 条目（最旧记录）
 - 完整内容仍可通过 `ProductList/` 目录访问
 
 ---
@@ -46,14 +64,14 @@
 
 | 产品 | 说明 |
 |------|------|
-| zsh | macOS 默认 Shell，自动补全、主题美化、批量文件操作 |
-| Regex | 正则表达式，用模式匹配快速搜索、替换和提取文本 |
-| ngrok | 内网穿透工具，将本地服务暴露为公网可访问的临时 URL |
+| [[zsh]] | macOS 默认 Shell，自动补全、主题美化、批量文件操作 |
+| [[regex]] | 正则表达式，用模式匹配快速搜索、替换和提取文本 |
+| [[ngrok]] | 内网穿透工具，将本地服务暴露为公网可访问的临时 URL |
 
 ### README 更新
 
-- 新增 zsh、Regex、ngrok 三条记录（排在最前面）
-- 因达到 10 条限制，移除 Docker、VS Code、Markdown 条目（最旧记录）
+- 新增 [[Product manual/ProductList/zsh|zsh]]、[[Product manual/ProductList/regex|Regex]]、[[Product manual/ProductList/ngrok|ngrok]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/docker|Docker]]、[[Product manual/ProductList/vscode|VS Code]]、[[Product manual/ProductList/markdown|Markdown]] 条目（最旧记录）
 - 完整内容仍可通过 `ProductList/` 目录访问
 
 ---
@@ -64,14 +82,14 @@
 
 | 产品 | 说明 |
 |------|------|
-| tmux | 终端复用器，分屏、持久化会话、多任务管理 |
-| SQLite | 零配置嵌入式数据库，数据存为单一文件，支持标准 SQL |
-| scp/rsync | 文件传输与同步工具，支持远程安全拷贝和增量备份 |
+| [[tmux]] | 终端复用器，分屏、持久化会话、多任务管理 |
+| [[sqlite]] | 零配置嵌入式数据库，数据存为单一文件，支持标准 SQL |
+| [[scp-rsync]] | 文件传输与同步工具，支持远程安全拷贝和增量备份 |
 
 ### README 更新
 
-- 新增 tmux、SQLite、scp/rsync 三条记录（排在最前面）
-- 因达到 10 条限制，移除 Git、npm、pip 条目（最旧记录）
+- 新增 [[Product manual/ProductList/tmux|tmux]]、[[Product manual/ProductList/sqlite|SQLite]]、[[Product manual/ProductList/scp-rsync|scp/rsync]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/git|Git]]、[[Product manual/ProductList/npm|npm]]、[[Product manual/ProductList/pip|pip]] 条目（最旧记录）
 - 完整内容仍可通过 `ProductList/` 目录访问
 
 ## 2026-05-15
@@ -80,14 +98,14 @@
 
 | 产品 | 说明 |
 |------|------|
-| Jupyter Notebook | 交互式编程环境，数据科学和机器学习的标配工具 |
-| SSH | 安全远程连接工具，加密登录服务器和执行命令 |
-| cron | 定时任务调度工具，自动化执行脚本和运维任务 |
+| [[jupyter-notebook]] | 交互式编程环境，数据科学和机器学习的标配工具 |
+| [[ssh]] | 安全远程连接工具，加密登录服务器和执行命令 |
+| [[cron]] | 定时任务调度工具，自动化执行脚本和运维任务 |
 
 ### README 更新
 
-- 新增 Jupyter Notebook、SSH、cron 三条记录（排在最前面）
-- 因达到 10 条限制，移除 Obsidian、curl、jq 条目（最旧记录）
+- 新增 [[Product manual/ProductList/jupyter-notebook|Jupyter Notebook]]、[[Product manual/ProductList/ssh|SSH]]、[[Product manual/ProductList/cron|cron]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/obsidian|Obsidian]]、[[Product manual/ProductList/curl|curl]]、[[Product manual/ProductList/jq|jq]] 条目（最旧记录）
 - 完整内容仍可通过 `ProductList/` 目录访问
 
 ## 2026-05-14
@@ -96,14 +114,14 @@
 
 | 产品 | 说明 |
 |------|------|
-| Homebrew | macOS 包管理器，一键安装和更新开发工具 |
-| Docker | 容器化应用平台，消除环境差异 |
-| VS Code | 轻量级代码编辑器，丰富的扩展生态 |
+| [[homebrew]] | macOS 包管理器，一键安装和更新开发工具 |
+| [[docker]] | 容器化应用平台，消除环境差异 |
+| [[vscode]] | 轻量级代码编辑器，丰富的扩展生态 |
 
 ### README 更新
 
-- 新增 Homebrew、Docker、VS Code 三条记录（排在最前面）
-- 因达到 10 条限制，移除 Python venv 条目（最旧记录）
+- 新增 [[Product manual/ProductList/homebrew|Homebrew]]、[[Product manual/ProductList/docker|Docker]]、[[Product manual/ProductList/vscode|VS Code]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/python-venv|Python venv]] 条目（最旧记录）
 - 完整内容仍可通过 `ProductList/` 目录访问
 
 ## 2026-05-13
@@ -116,14 +134,14 @@
 ### 已有产品（8个）
 | 产品 | 说明 |
 |------|------|
-| curl | 命令行网络请求工具 |
-| git | 分布式版本控制系统 |
-| jq | JSON 命令行处理工具 |
-| markdown | 轻量级标记语言 |
-| npm | Node.js 包管理器 |
-| obsidian | 本地知识管理工具 |
-| pip | Python 包管理器 |
-| python-venv | Python 虚拟环境工具 |
+| [[curl]] | 命令行网络请求工具 |
+| [[git]] | 分布式版本控制系统 |
+| [[jq]] | JSON 命令行处理工具 |
+| [[markdown]] | 轻量级标记语言 |
+| [[npm]] | Node.js 包管理器 |
+| [[obsidian]] | 本地知识管理工具 |
+| [[pip]] | Python 包管理器 |
+| [[python-venv]] | Python 虚拟环境工具 |
 
 ### README 优化
 - **目录精简**：README 中的产品列表改为只展示**最近更新的前10个**，加上了 `更新时间` 列

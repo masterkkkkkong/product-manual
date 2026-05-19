@@ -170,7 +170,7 @@ MIT
 
 参考链接：[Python 官方文档](https://docs.python.org/3/)
 
-相关笔记：[[Python 基础]]
+相关笔记：Python 基础
 ```
 
 ### 示例 3：写一个好看的表格

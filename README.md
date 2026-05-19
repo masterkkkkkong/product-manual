@@ -21,18 +21,18 @@
 
 > 完整列表见 [ProductList/](./ProductList/) 目录 · CHANGELOG 见 [CHANGELOG.md](./CHANGELOG.md)
 
-|| 工具 | 类别 | 简介 | 更新时间 |
-||------|------|------|---------|
-|| [Postman](./ProductList/postman.md) | 🌐 网络工具 | API 调试与测试工具，发送 HTTP 请求、编写接口测试、管理 API 文档 | 2026-05-19 |
-|| [Tableau Public](./ProductList/tableau-public.md) | 🛠 数据处理 | 免费数据可视化平台，拖拽式创建交互式图表和仪表板 | 2026-05-19 |
-|| [Streamlit](./ProductList/streamlit.md) | 🤖 AI 工具 | Python 快速构建数据应用，纯代码生成交互式 Web 界面 | 2026-05-19 |
-|| [Chrome DevTools](./ProductList/chrome-devtools.md) | 🔧 效率工具 | 浏览器开发者工具，调试 HTML/CSS/JS、分析性能、监控网络 | 2026-05-18 |
-|| [iTerm2](./ProductList/iterm2.md) | 🖥 命令行 | macOS 终端增强，分屏、热键窗口、搜索、配置文件管理 | 2026-05-18 |
-|| [Conda](./ProductList/conda.md) | 🐍 编程语言 | 跨平台包管理和虚拟环境，数据科学场景首选 | 2026-05-18 |
-|| [zsh](./ProductList/zsh.md) | 🖥 命令行 | macOS 默认 Shell，自动补全、主题美化、批量文件操作 | 2026-05-17 |
-|| [Regex](./ProductList/regex.md) | 📝 文本处理 | 正则表达式，用模式匹配快速搜索、替换和提取文本 | 2026-05-17 |
-|| [ngrok](./ProductList/ngrok.md) | 🌐 网络工具 | 内网穿透工具，将本地服务暴露出公网 URL 用于调试 | 2026-05-17 |
-|| [tmux](./ProductList/tmux.md) | 🖥 命令行 | 终端复用器，分屏、持久化会话、多任务管理 | 2026-05-16 |
+||| 工具 | 类别 | 简介 | 更新时间 |
+|||------|------|------|---------|
+||| [Ollama](./ProductList/ollama.md) | 🤖 AI 工具 | 本地运行大模型，一条命令下载并对话 LLM，完全离线免费 | 2026-05-20 |
+||| [GitHub CLI](./ProductList/gh.md) | 🛠 开发工具 | 在终端中管理 GitHub 仓库、Issue、PR、Actions，无需离开命令行 | 2026-05-20 |
+||| [UV](./ProductList/uv.md) | 🐍 编程语言 | 用 Rust 写的超快 Python 包管理器，替代 pip/poetry/venv，快 10-100 倍 | 2026-05-20 |
+||| [Postman](./ProductList/postman.md) | 🌐 网络工具 | API 调试与测试工具，发送 HTTP 请求、编写接口测试、管理 API 文档 | 2026-05-19 |
+||| [Tableau Public](./ProductList/tableau-public.md) | 🛠 数据处理 | 免费数据可视化平台，拖拽式创建交互式图表和仪表板 | 2026-05-19 |
+||| [Streamlit](./ProductList/streamlit.md) | 🤖 AI 工具 | Python 快速构建数据应用，纯代码生成交互式 Web 界面 | 2026-05-19 |
+||| [Chrome DevTools](./ProductList/chrome-devtools.md) | 🔧 效率工具 | 浏览器开发者工具，调试 HTML/CSS/JS、分析性能、监控网络 | 2026-05-18 |
+||| [iTerm2](./ProductList/iterm2.md) | 🖥 命令行 | macOS 终端增强，分屏、热键窗口、搜索、配置文件管理 | 2026-05-18 |
+||| [Conda](./ProductList/conda.md) | 🐍 编程语言 | 跨平台包管理和虚拟环境，数据科学场景首选 | 2026-05-18 |
+||| [zsh](./ProductList/zsh.md) | 🖥 命令行 | macOS 默认 Shell，自动补全、主题美化、批量文件操作 | 2026-05-17 |
 |
 > 每天新增 2-3 个工具 🔄
 
