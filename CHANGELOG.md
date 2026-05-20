@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-21
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[ffmpeg]] | 音视频处理瑞士军刀，转码、剪切、合并、提取音频，支持几乎所有格式 |
+| [[make]] | 构建自动化工具，通过 Makefile 一键编译、测试、部署 |
+| [[screen]] | 终端会话管理工具，断开后任务继续运行，支持多窗口和回连 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/ffmpeg|FFmpeg]]、[[Product manual/ProductList/make|Make]]、[[Product manual/ProductList/screen|Screen]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/zsh|zsh]]、[[Product manual/ProductList/conda|Conda]]、[[Product manual/ProductList/iterm2|iTerm2]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-20
 
 ### 新增工具（3 个）
