@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-22
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[ripgrep]] | 超快的代码搜索工具，比 grep 快 5-10 倍，默认遵守 .gitignore |
+| [[pytest]] | Python 最流行的测试框架，自动发现测试、丰富的断言、插件生态 |
+| [[lsof]] | 列出系统打开的文件和网络连接，查端口谁占了的终极工具 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/ripgrep|ripgrep]]、[[Product manual/ProductList/pytest|pytest]]、[[Product manual/ProductList/lsof|lsof]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/chrome-devtools|Chrome DevTools]]、[[Product manual/ProductList/tableau-public|Tableau Public]]、[[Product manual/ProductList/streamlit|Streamlit]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-21
 
 ### 新增工具（3 个）
