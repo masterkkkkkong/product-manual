@@ -21,18 +21,18 @@
 
 > 完整列表见 [ProductList/](./ProductList/) 目录 · CHANGELOG 见 [CHANGELOG.md](./CHANGELOG.md)
 
-||| 工具 | 类别 | 简介 | 更新时间 |
-|||------|------|------|---------|
-||||| [ripgrep](./ProductList/ripgrep.md) | 🔧 开发工具 | 超快的代码搜索工具，比 grep 快 5-10 倍，默认遵守 .gitignore | 2026-05-22 |
-||||| [pytest](./ProductList/pytest.md) | 🐍 编程语言 | Python 最流行的测试框架，自动发现测试、丰富的断言、插件生态 | 2026-05-22 |
-||||| [lsof](./ProductList/lsof.md) | 🖥 命令行 | 列出系统打开的文件和网络连接，查端口谁占了的终极工具 | 2026-05-22 |
-||||| [FFmpeg](./ProductList/ffmpeg.md) | 🎬 音视频工具 | 音视频处理瑞士军刀，转码、剪切、合并、提取音频，支持几乎所有格式 | 2026-05-21 |
-||||| [Make](./ProductList/make.md) | 🔧 开发工具 | 构建自动化工具，通过 Makefile 一键编译、测试、部署 | 2026-05-21 |
-||||| [Screen](./ProductList/screen.md) | 🖥 命令行 | 终端会话管理工具，断开后任务继续运行，支持多窗口和回连 | 2026-05-21 |
-||||| [Ollama](./ProductList/ollama.md) | 🤖 AI 工具 | 本地运行大模型，一条命令下载并对话 LLM，完全离线免费 | 2026-05-20 |
-||||| [GitHub CLI](./ProductList/gh.md) | 🛠 开发工具 | 在终端中管理 GitHub 仓库、Issue、PR、Actions，无需离开命令行 | 2026-05-20 |
-||||| [UV](./ProductList/uv.md) | 🐍 编程语言 | 用 Rust 写的超快 Python 包管理器，替代 pip/poetry/venv，快 10-100 倍 | 2026-05-20 |
-||||| [Postman](./ProductList/postman.md) | 🌐 网络工具 | API 调试与测试工具，发送 HTTP 请求、编写接口测试、管理 API 文档 | 2026-05-19 |
+|||| 工具 | 类别 | 简介 | 更新时间 |
+||||------|------|------|---------|
+|||||| [awk](./ProductList/awk.md) | 🖥 命令行 | 文本模式扫描与处理语言，按字段提取、统计、格式化，日志分析和 CSV 处理利器 | 2026-05-24 |
+|||||| [sed](./ProductList/sed.md) | 🖥 命令行 | 流编辑器，批量查找替换文本、删除/提取行，不打开编辑器就能改文件 | 2026-05-24 |
+|||||| [tar](./ProductList/tar.md) | 🖥 命令行 | 文件归档与压缩工具，将多文件打包为单文件并压缩，备份和分发的标配 | 2026-05-24 |
+|||||| [ripgrep](./ProductList/ripgrep.md) | 🔧 开发工具 | 超快的代码搜索工具，比 grep 快 5-10 倍，默认遵守 .gitignore | 2026-05-22 |
+|||||| [pytest](./ProductList/pytest.md) | 🐍 编程语言 | Python 最流行的测试框架，自动发现测试、丰富的断言、插件生态 | 2026-05-22 |
+|||||| [lsof](./ProductList/lsof.md) | 🖥 命令行 | 列出系统打开的文件和网络连接，查端口谁占了的终极工具 | 2026-05-22 |
+|||||| [FFmpeg](./ProductList/ffmpeg.md) | 🎬 音视频工具 | 音视频处理瑞士军刀，转码、剪切、合并、提取音频，支持几乎所有格式 | 2026-05-21 |
+|||||| [Make](./ProductList/make.md) | 🔧 开发工具 | 构建自动化工具，通过 Makefile 一键编译、测试、部署 | 2026-05-21 |
+|||||| [Screen](./ProductList/screen.md) | 🖥 命令行 | 终端会话管理工具，断开后任务继续运行，支持多窗口和回连 | 2026-05-21 |
+|||||| [Ollama](./ProductList/ollama.md) | 🤖 AI 工具 | 本地运行大模型，一条命令下载并对话 LLM，完全离线免费 | 2026-05-20 |
 |
 > 每天新增 2-3 个工具 🔄
 

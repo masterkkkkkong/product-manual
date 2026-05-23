@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-24
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[awk]] | 文本模式扫描与处理语言，按字段提取、统计、格式化，日志分析和 CSV 处理利器 |
+| [[sed]] | 流编辑器，批量查找替换文本、删除/提取行，不打开编辑器就能改文件 |
+| [[tar]] | 文件归档与压缩工具，将多文件打包为单文件并压缩，备份和分发的标配 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/awk|awk]]、[[Product manual/ProductList/sed|sed]]、[[Product manual/ProductList/tar|tar]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/postman|Postman]]、[[Product manual/ProductList/gh|GitHub CLI]]、[[Product manual/ProductList/uv|UV]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-22
 
 ### 新增工具（3 个）
