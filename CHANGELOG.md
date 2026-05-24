@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-25
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[grep]] | 文本模式搜索神器，在文件或输出中搜索匹配模式的行，比 ripgrep 更基础通用 |
+| [[sort]] | 文本行排序工具，按字母/数字/字段排序，数据分析管道的基础组件 |
+| [[uniq]] | 去除重复行，配合 sort 统计频次、找出唯一值，数据清洗必备 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/grep|grep]]、[[Product manual/ProductList/sort|sort]]、[[Product manual/ProductList/uniq|uniq]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/make|Make]]、[[Product manual/ProductList/screen|Screen]]、[[Product manual/ProductList/ollama|Ollama]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-24
 
 ### 新增工具（3 个）
