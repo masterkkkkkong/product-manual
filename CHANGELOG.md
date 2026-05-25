@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-26
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[head-tail]] | 文件首尾查看，快速预览大文件、实时跟踪日志、CSV 数据快速取样 |
+| [[tee]] | 输出分流器，同时输出到文件和终端，管道调试和 sudo 写文件的利器 |
+| [[watch]] | 定时执行命令工具，每隔几秒自动刷新输出，实时监控系统和进程变化 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/head-tail|head & tail]]、[[Product manual/ProductList/tee|tee]]、[[Product manual/ProductList/watch|watch]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/pytest|pytest]]、[[Product manual/ProductList/lsof|lsof]]、[[Product manual/ProductList/ffmpeg|FFmpeg]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-25
 
 ### 新增工具（3 个）
