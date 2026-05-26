@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-27
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[cat]] | 文件内容查看与拼接工具，快速预览、合并文件、创建脚本 |
+| [[wc]] | 文本统计工具，统计行数/单词数/字符数，管道数据分析的好搭档 |
+| [[cut]] | 文本列提取工具，按分隔符或字符位置取字段，CSV 处理利器 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/cat|cat]]、[[Product manual/ProductList/wc|wc]]、[[Product manual/ProductList/cut|cut]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/sed|sed]]、[[Product manual/ProductList/tar|tar]]、[[Product manual/ProductList/ripgrep|ripgrep]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-26
 
 ### 新增工具（3 个）
