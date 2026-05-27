@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-28
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[open]] | macOS 原生打开工具，从终端打开文件、目录、URL，Finder 和图形应用无缝切换 |
+| [[time]] | 命令执行时间测量工具，分 real/user/sys 三个维度分析性能，脚本优化必备 |
+| [[pbcopy-pbpaste]] | macOS 剪贴板 CLI（pbcopy/pbpaste），终端和系统剪贴板之间的数据传输桥梁 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/open|open]]、[[Product manual/ProductList/time|time]]、[[Product manual/ProductList/pbcopy-pbpaste|pbcopy/pbpaste]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/sort|sort]]、[[Product manual/ProductList/uniq|uniq]]、[[Product manual/ProductList/awk|awk]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-27
 
 ### 新增工具（3 个）
