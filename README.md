@@ -21,18 +21,18 @@
 
 > 完整列表见 [ProductList/](./ProductList/) 目录 · CHANGELOG 见 [CHANGELOG.md](./CHANGELOG.md)
 
-||||||||| 工具 | 类别 | 简介 | 更新时间 |
-|||||||||------|------|------|---------|
-||| [open](./ProductList/open.md) | 🖥 命令行 | macOS 原生打开工具，从终端打开文件、目录、URL，Finder 和图形应用无缝切换 | 2026-05-28 |
-||| [time](./ProductList/time.md) | 🖥 命令行 | 命令执行时间测量工具，分 real/user/sys 三个维度分析性能，脚本优化必备 | 2026-05-28 |
-||| [pbcopy/pbpaste](./ProductList/pbcopy-pbpaste.md) | 🖥 命令行 | macOS 剪贴板 CLI，终端和系统剪贴板之间的数据传输桥梁 | 2026-05-28 |
-||| [cat](./ProductList/cat.md) | 🖥 命令行 | 文件内容查看与拼接，快速预览、合并文件、创建脚本 | 2026-05-27 |
-||| [wc](./ProductList/wc.md) | 🖥 命令行 | 文本统计工具，统计行数/单词数/字符数，数据管道的好搭档 | 2026-05-27 |
-||| [cut](./ProductList/cut.md) | 🖥 命令行 | 文本列提取工具，按分隔符或字符位置取字段，CSV 处理利器 | 2026-05-27 |
-||| [head & tail](./ProductList/head-tail.md) | 🖥 命令行 | 文件首尾查看，快速预览大文件、实时跟踪日志、CSV 数据快速取样 | 2026-05-26 |
-||| [tee](./ProductList/tee.md) | 🖥 命令行 | 输出分流器，同时输出到文件和终端，管道调试和 sudo 写文件的利器 | 2026-05-26 |
-||| [watch](./ProductList/watch.md) | 🖥 命令行 | 定时执行命令工具，每隔几秒自动刷新输出，实时监控系统和进程变化 | 2026-05-26 |
-||| [grep](./ProductList/grep.md) | 🖥 命令行 | 文本模式搜索神器，在文件或输出中搜索匹配模式的行，比 ripgrep 更基础通用 | 2026-05-25 |
+|||||||||| 工具 | 类别 | 简介 | 更新时间 |
+||||||||||------|------|------|---------|
+|||| [less](./ProductList/less.md) | 🖥 命令行 | 文件分页查看器，大文件秒开，支持搜索/翻页/行号跳转，替代猫和尾巴的全能选手 | 2026-05-29 |
+|||| [ps](./ProductList/ps.md) | 🖥 命令行 | 进程状态查看器，显示系统中所有进程的 PID、CPU/内存占用，诊断卡顿的起点 | 2026-05-29 |
+|||| [df & du](./ProductList/df-du.md) | 🖥 命令行 | 磁盘空间分析工具，df 看分区还剩多少，du 找谁吃掉了空间 | 2026-05-29 |
+|||| [open](./ProductList/open.md) | 🖥 命令行 | macOS 原生打开工具，从终端打开文件、目录、URL，Finder 和图形应用无缝切换 | 2026-05-28 |
+|||| [time](./ProductList/time.md) | 🖥 命令行 | 命令执行时间测量工具，分 real/user/sys 三个维度分析性能，脚本优化必备 | 2026-05-28 |
+|||| [pbcopy/pbpaste](./ProductList/pbcopy-pbpaste.md) | 🖥 命令行 | macOS 剪贴板 CLI，终端和系统剪贴板之间的数据传输桥梁 | 2026-05-28 |
+|||| [cat](./ProductList/cat.md) | 🖥 命令行 | 文件内容查看与拼接，快速预览、合并文件、创建脚本 | 2026-05-27 |
+|||| [wc](./ProductList/wc.md) | 🖥 命令行 | 文本统计工具，统计行数/单词数/字符数，数据管道的好搭档 | 2026-05-27 |
+|||| [cut](./ProductList/cut.md) | 🖥 命令行 | 文本列提取工具，按分隔符或字符位置取字段，CSV 处理利器 | 2026-05-27 |
+|||| [watch](./ProductList/watch.md) | 🖥 命令行 | 定时执行命令工具，每隔几秒自动刷新输出，实时监控系统和进程变化 | 2026-05-26 |
 |
 > 每天新增 2-3 个工具 🔄
 

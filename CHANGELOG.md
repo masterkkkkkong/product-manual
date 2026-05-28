@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-29
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[less]] | 文件分页查看器，大文件秒开，支持搜索/翻页/行号跳转，替代 cat 和 tail 的全能选手 |
+| [[ps]] | 进程状态查看器，显示系统中所有进程的 PID、CPU/内存占用，诊断卡顿的起点 |
+| [[df-du]] | 磁盘空间分析工具（df & du），df 看分区还剩多少，du 找谁吃掉了空间 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/less|less]]、[[Product manual/ProductList/ps|ps]]、[[Product manual/ProductList/df-du|df & du]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/grep|grep]]、[[Product manual/ProductList/head-tail|head & tail]]、[[Product manual/ProductList/tee|tee]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-28
 
 ### 新增工具（3 个）
