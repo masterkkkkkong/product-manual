@@ -23,16 +23,16 @@
 
 |||||||||| 工具 | 类别 | 简介 | 更新时间 |
 ||||||||||------|------|------|---------|
-|||| [less](./ProductList/less.md) | 🖥 命令行 | 文件分页查看器，大文件秒开，支持搜索/翻页/行号跳转，替代猫和尾巴的全能选手 | 2026-05-29 |
-|||| [ps](./ProductList/ps.md) | 🖥 命令行 | 进程状态查看器，显示系统中所有进程的 PID、CPU/内存占用，诊断卡顿的起点 | 2026-05-29 |
-|||| [df & du](./ProductList/df-du.md) | 🖥 命令行 | 磁盘空间分析工具，df 看分区还剩多少，du 找谁吃掉了空间 | 2026-05-29 |
-|||| [open](./ProductList/open.md) | 🖥 命令行 | macOS 原生打开工具，从终端打开文件、目录、URL，Finder 和图形应用无缝切换 | 2026-05-28 |
-|||| [time](./ProductList/time.md) | 🖥 命令行 | 命令执行时间测量工具，分 real/user/sys 三个维度分析性能，脚本优化必备 | 2026-05-28 |
-|||| [pbcopy/pbpaste](./ProductList/pbcopy-pbpaste.md) | 🖥 命令行 | macOS 剪贴板 CLI，终端和系统剪贴板之间的数据传输桥梁 | 2026-05-28 |
-|||| [cat](./ProductList/cat.md) | 🖥 命令行 | 文件内容查看与拼接，快速预览、合并文件、创建脚本 | 2026-05-27 |
-|||| [wc](./ProductList/wc.md) | 🖥 命令行 | 文本统计工具，统计行数/单词数/字符数，数据管道的好搭档 | 2026-05-27 |
-|||| [cut](./ProductList/cut.md) | 🖥 命令行 | 文本列提取工具，按分隔符或字符位置取字段，CSV 处理利器 | 2026-05-27 |
-|||| [watch](./ProductList/watch.md) | 🖥 命令行 | 定时执行命令工具，每隔几秒自动刷新输出，实时监控系统和进程变化 | 2026-05-26 |
+||||| [dig](./ProductList/dig.md) | 🖥 命令行 | DNS 查询工具，查域名解析、邮件服务器、排查网络问题，网络诊断必备 | 2026-05-30 |
+||||| [zip & unzip](./ProductList/zip-unzip.md) | 🖥 命令行 | 文件压缩与解压，打包分享和归档，跨平台最通用的压缩格式 | 2026-05-30 |
+||||| [mdfind](./ProductList/mdfind.md) | 🖥 命令行 | macOS Spotlight 命令行搜索，比 find 快几十倍，按元数据精准定位文件 | 2026-05-30 |
+||||| [less](./ProductList/less.md) | 🖥 命令行 | 文件分页查看器，大文件秒开，支持搜索/翻页/行号跳转，替代猫和尾巴的全能选手 | 2026-05-29 |
+||||| [ps](./ProductList/ps.md) | 🖥 命令行 | 进程状态查看器，显示系统中所有进程的 PID、CPU/内存占用，诊断卡顿的起点 | 2026-05-29 |
+||||| [df & du](./ProductList/df-du.md) | 🖥 命令行 | 磁盘空间分析工具，df 看分区还剩多少，du 找谁吃掉了空间 | 2026-05-29 |
+||||| [open](./ProductList/open.md) | 🖥 命令行 | macOS 原生打开工具，从终端打开文件、目录、URL，Finder 和图形应用无缝切换 | 2026-05-28 |
+||||| [time](./ProductList/time.md) | 🖥 命令行 | 命令执行时间测量工具，分 real/user/sys 三个维度分析性能，脚本优化必备 | 2026-05-28 |
+||||| [pbcopy/pbpaste](./ProductList/pbcopy-pbpaste.md) | 🖥 命令行 | macOS 剪贴板 CLI，终端和系统剪贴板之间的数据传输桥梁 | 2026-05-28 |
+||||| [cat](./ProductList/cat.md) | 🖥 命令行 | 文件内容查看与拼接，快速预览、合并文件、创建脚本 | 2026-05-27 |
 |
 > 每天新增 2-3 个工具 🔄
 

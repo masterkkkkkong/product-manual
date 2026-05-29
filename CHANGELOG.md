@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-05-30
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[dig]] | DNS 查询工具，查域名解析、邮件服务器、网络诊断必备 |
+| [[zip-unzip]] | 文件压缩与解压（zip & unzip），打包分享和归档，跨平台最通用的压缩格式 |
+| [[mdfind]] | macOS Spotlight 命令行搜索，比 find 快几十倍，按元数据精准定位文件 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/dig|dig]]、[[Product manual/ProductList/zip-unzip|zip & unzip]]、[[Product manual/ProductList/mdfind|mdfind]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/watch|watch]]、[[Product manual/ProductList/wc|wc]]、[[Product manual/ProductList/cut|cut]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-29
 
 ### 新增工具（3 个）
