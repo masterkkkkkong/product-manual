@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-01
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[nc]] | 网络瑞士军刀，端口扫描、文件传输、TCP/UDP 调试，网络诊断必备 |
+| [[nano]] | 终端文本编辑器，简单易上手，配置文件修改神器，无需学习 vim/emacs |
+| [[base64]] | 二进制编码/解码工具，文本和二进制互相转换，JWT 解析、图片嵌入必备 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/nc|nc]]、[[Product manual/ProductList/nano|nano]]、[[Product manual/ProductList/base64|base64]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/time|time]]、[[Product manual/ProductList/pbcopy-pbpaste|pbcopy/pbpaste]]、[[Product manual/ProductList/cat|cat]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-05-30
 
 ### 新增工具（3 个）
