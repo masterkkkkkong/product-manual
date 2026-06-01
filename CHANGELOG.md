@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-02
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[fzf]] | 命令行模糊搜索神器，从文件、历史命令、管道数据中秒速定位，现代终端必备 |
+| [[bat]] | 带语法高亮的 cat 增强版，自动着色、行号、Git 标注，代码查看利器 |
+| [[httpie]] | 人类友好的 HTTP 客户端，彩色输出，一行命令调试 REST API，比 curl 更直观 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/fzf|fzf]]、[[Product manual/ProductList/bat|bat]]、[[Product manual/ProductList/httpie|httpie]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/ps|ps]]、[[Product manual/ProductList/df-du|df & du]]、[[Product manual/ProductList/open|open]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-01
 
 ### 新增工具（3 个）
