@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-03
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[openssl]] | 加密与安全通信工具箱，证书管理、TLS 调试、文件加密、哈希计算，网络安全基础设施 |
+| [[gzip]] | 文件压缩与解压工具，常与 tar 配合打包，文本和日志压缩效果极好 |
+| [[xz]] | 高压缩率压缩工具，比 gzip 多省 30-50% 空间，软件包分发和归档首选 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/openssl|openssl]]、[[Product manual/ProductList/gzip|gzip]]、[[Product manual/ProductList/xz|xz]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/zip-unzip|zip & unzip]]、[[Product manual/ProductList/mdfind|mdfind]]、[[Product manual/ProductList/less|less]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-02
 
 ### 新增工具（3 个）
