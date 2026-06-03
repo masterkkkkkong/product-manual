@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-04
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[ping]] | 网络连通性测试工具，检测网络通断、延迟和丢包率，网络诊断第一步 |
+| [[man]] | 系统手册查看器，任何命令的完整用法都能查，离线可用的官方文档，学命令的最佳起点 |
+| [[chmod]] | 文件权限修改工具，设置读/写/执行权限，SSH 密钥保护与脚本运行的基础 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/ping|ping]]、[[Product manual/ProductList/man|man]]、[[Product manual/ProductList/chmod|chmod]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/nano|nano]]、[[Product manual/ProductList/base64|base64]]、[[Product manual/ProductList/dig|dig]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-03
 
 ### 新增工具（3 个）
