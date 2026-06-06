@@ -21,19 +21,19 @@
 
 > 完整列表见 [ProductList/](./ProductList/) 目录 · CHANGELOG 见 [CHANGELOG.md](./CHANGELOG.md)
 
-||||||| 工具 | 类别 | 简介 | 更新时间 |
-|||||||------|------|------|---------|
-||||||||| [ping](./ProductList/ping.md) | 🖥 命令行 | 网络连通性测试工具，检测网络通断、延迟和丢包率，网络诊断第一步 | 2026-06-04 |
-||||||||| [man](./ProductList/man.md) | 🖥 命令行 | 系统手册查看器，任何命令的完整用法都能查，离线可用的官方文档 | 2026-06-04 |
-||||||||| [chmod](./ProductList/chmod.md) | 🖥 命令行 | 文件权限修改工具，设置读/写/执行权限，SSH 密钥保护与脚本运行的基础 | 2026-06-04 |
-||||||||| [openssl](./ProductList/openssl.md) | 🔒 安全 | 加密与安全通信工具箱，证书管理、TLS 调试、文件加密、哈希计算 | 2026-06-03 |
-||||||||| [gzip](./ProductList/gzip.md) | 🖥 命令行 | 文件压缩与解压，常与 tar 配合打包，是 Linux/macOS 最基础的压缩工具 | 2026-06-03 |
-||||||||| [xz](./ProductList/xz.md) | 🖥 命令行 | 高压缩率压缩工具，比 gzip 多省 30-50% 空间，软件包分发和归档首选 | 2026-06-03 |
-||||||||| [fzf](./ProductList/fzf.md) | 🖥 命令行 | 命令行模糊搜索神器，从文件、历史命令、管道数据中秒速定位 | 2026-06-02 |
-||||||||| [bat](./ProductList/bat.md) | 🖥 命令行 | 带语法高亮的 cat 增强版，自动着色、行号、Git 标注，代码查看利器 | 2026-06-02 |
-||||||||| [httpie](./ProductList/httpie.md) | 🖥 命令行 | 人类友好的 HTTP 客户端，彩色输出，一行命令调试 REST API | 2026-06-02 |
-||||||||| [nc](./ProductList/nc.md) | 🖥 命令行 | 网络瑞士军刀，端口扫描、文件传输、TCP/UDP 调试 | 2026-06-01 |
-|
+| 工具 | 类别 | 简介 | 更新时间 |
+|------|------|------|---------|
+| [plutil](./ProductList/plutil.md) | 🖥 命令行 | macOS plist 文件检查与转换工具，检查语法、读写字段、转换 JSON/XML/binary plist | 2026-06-07 |
+| [osascript](./ProductList/osascript.md) | 🖥 命令行 | 在终端运行 AppleScript/JXA，自动控制 macOS 应用和系统动作 | 2026-06-07 |
+| [softwareupdate](./ProductList/softwareupdate.md) | 🖥 命令行 | macOS 系统更新命令行工具，检查、下载、安装系统更新和完整安装器 | 2026-06-07 |
+| [launchctl](./ProductList/launchctl.md) | 🖥 命令行 | macOS 服务/守护进程管理工具，控制 LaunchAgents 和 LaunchDaemons | 2026-06-06 |
+| [caffeinate](./ProductList/caffeinate.md) | 🖥 命令行 | macOS 防休眠工具，长时间下载、编译、渲染时保持系统清醒 | 2026-06-06 |
+| [defaults](./ProductList/defaults.md) | 🖥 命令行 | macOS 偏好设置命令行工具，读写隐藏系统和应用配置 | 2026-06-06 |
+| [Node.js](./ProductList/node.md) | 🐍 编程语言 | JavaScript 运行时，让 JS 脱离浏览器运行，前后端开发和命令行工具生态核心 | 2026-06-05 |
+| [sips](./ProductList/sips.md) | 🖥 命令行 | macOS 自带图片处理工具，查看、缩放、旋转和格式转换图片，无需安装额外软件 | 2026-06-05 |
+| [textutil](./ProductList/textutil.md) | 🖥 命令行 | macOS 文档格式转换工具，在 txt、rtf、html、docx 等格式之间批量转换 | 2026-06-05 |
+| [ping](./ProductList/ping.md) | 🖥 命令行 | 网络连通性测试工具，检测网络通断、延迟和丢包率，网络诊断第一步 | 2026-06-04 |
+
 > 每天新增 2-3 个工具 🔄
 
 ## 🎯 适合谁看？

@@ -4,6 +4,37 @@
 
 ---
 
+## 2026-06-07
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[Product manual/ProductList/plutil]] | macOS plist 文件检查与转换工具，检查语法、读写字段、转换 JSON/XML/binary plist |
+| [[Product manual/ProductList/osascript]] | 在终端运行 AppleScript/JXA，自动控制 macOS 应用和系统动作 |
+| [[Product manual/ProductList/softwareupdate]] | macOS 系统更新命令行工具，检查、下载、安装系统更新和完整安装器 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/plutil|plutil]]、[[Product manual/ProductList/osascript|osascript]]、[[Product manual/ProductList/softwareupdate|softwareupdate]] 三条记录（排在最前面）
+- 同步补入 2026-06-06 的 [[Product manual/ProductList/launchctl|launchctl]]、[[Product manual/ProductList/caffeinate|caffeinate]]、[[Product manual/ProductList/defaults|defaults]] 到最新上架区
+- 因达到 10 条限制，移除 [[Product manual/ProductList/man|man]]、[[Product manual/ProductList/chmod|chmod]]、[[Product manual/ProductList/openssl|openssl]]、[[Product manual/ProductList/gzip|gzip]]、[[Product manual/ProductList/xz|xz]]、[[Product manual/ProductList/fzf|fzf]]、[[Product manual/ProductList/bat|bat]]、[[Product manual/ProductList/httpie|httpie]]、[[Product manual/ProductList/nc|nc]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
+## 2026-06-06
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[Product manual/ProductList/launchctl]] | macOS 服务/守护进程管理工具，控制 LaunchAgents 和 LaunchDaemons |
+| [[Product manual/ProductList/caffeinate]] | macOS 防休眠工具，长时间下载、编译、渲染时保持系统清醒 |
+| [[Product manual/ProductList/defaults]] | macOS 偏好设置命令行工具，读写隐藏系统和应用配置 |
+
+---
+
 ## 2026-06-04
 
 ### 新增工具（3 个）
