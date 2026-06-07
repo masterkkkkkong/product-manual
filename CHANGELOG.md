@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-08
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[Product manual/ProductList/vim]] | 终端文本编辑器，全键盘操作无需鼠标，SSH 改配置和代码编辑的标配 |
+| [[Product manual/ProductList/column]] | 终端表格排版工具，把杂乱的文本对齐成整齐的表格，看数据不再眼花 |
+| [[Product manual/ProductList/comm]] | 文件行对比工具，逐行比较两个排序文件，找出共有和独有的内容 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/vim|vim]]、[[Product manual/ProductList/column|column]]、[[Product manual/ProductList/comm|comm]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/sips|sips]]、[[Product manual/ProductList/textutil|textutil]]、[[Product manual/ProductList/ping|ping]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-07
 
 ### 新增工具（3 个）

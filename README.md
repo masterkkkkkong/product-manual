@@ -23,6 +23,9 @@
 
 | 工具 | 类别 | 简介 | 更新时间 |
 |------|------|------|---------|
+| [vim](./ProductList/vim.md) | 🖥 命令行 | 终端文本编辑器，全键盘操作无需鼠标，SSH 改配置和代码编辑的标配 | 2026-06-08 |
+| [column](./ProductList/column.md) | 🖥 命令行 | 终端表格排版工具，把杂乱的文本对齐成整齐的表格，看数据不再眼花 | 2026-06-08 |
+| [comm](./ProductList/comm.md) | 🖥 命令行 | 文件行对比工具，逐行比较两个排序文件，找出共有和独有的内容 | 2026-06-08 |
 | [plutil](./ProductList/plutil.md) | 🖥 命令行 | macOS plist 文件检查与转换工具，检查语法、读写字段、转换 JSON/XML/binary plist | 2026-06-07 |
 | [osascript](./ProductList/osascript.md) | 🖥 命令行 | 在终端运行 AppleScript/JXA，自动控制 macOS 应用和系统动作 | 2026-06-07 |
 | [softwareupdate](./ProductList/softwareupdate.md) | 🖥 命令行 | macOS 系统更新命令行工具，检查、下载、安装系统更新和完整安装器 | 2026-06-07 |
@@ -30,9 +33,6 @@
 | [caffeinate](./ProductList/caffeinate.md) | 🖥 命令行 | macOS 防休眠工具，长时间下载、编译、渲染时保持系统清醒 | 2026-06-06 |
 | [defaults](./ProductList/defaults.md) | 🖥 命令行 | macOS 偏好设置命令行工具，读写隐藏系统和应用配置 | 2026-06-06 |
 | [Node.js](./ProductList/node.md) | 🐍 编程语言 | JavaScript 运行时，让 JS 脱离浏览器运行，前后端开发和命令行工具生态核心 | 2026-06-05 |
-| [sips](./ProductList/sips.md) | 🖥 命令行 | macOS 自带图片处理工具，查看、缩放、旋转和格式转换图片，无需安装额外软件 | 2026-06-05 |
-| [textutil](./ProductList/textutil.md) | 🖥 命令行 | macOS 文档格式转换工具，在 txt、rtf、html、docx 等格式之间批量转换 | 2026-06-05 |
-| [ping](./ProductList/ping.md) | 🖥 命令行 | 网络连通性测试工具，检测网络通断、延迟和丢包率，网络诊断第一步 | 2026-06-04 |
 
 > 每天新增 2-3 个工具 🔄
 
