@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-09
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[Product manual/ProductList/date]] | 日期时间显示与格式化工具，脚本中生成时间戳、计算 N 天前后、格式化输出，macOS BSD 版与 Linux GNU 版差异大 |
+| [[Product manual/ProductList/file]] | 文件类型检测工具，读取文件头部特征字节（magic number）识别真实类型，不依赖扩展名 |
+| [[Product manual/ProductList/ln]] | 文件链接工具（硬链接与符号链接），实现文件复用、dotfiles 管理和快捷访问 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/date|date]]、[[Product manual/ProductList/file|file]]、[[Product manual/ProductList/ln|ln]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/node|Node.js]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-08
 
 ### 新增工具（3 个）
