@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-11
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[Product manual/ProductList/tcpdump]] | 网络抓包分析工具，实时捕获和查看数据包，排查网络故障和协议调试 |
+| [[Product manual/ProductList/netstat]] | 网络连接与状态查看工具，查端口监听、连接状态、路由表和流量统计 |
+| [[Product manual/ProductList/ifconfig]] | 网络接口配置与查看工具，查 IP/MAC/连接状态，网络诊断第一步 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/tcpdump|tcpdump]]、[[Product manual/ProductList/netstat|netstat]]、[[Product manual/ProductList/ifconfig|ifconfig]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/osascript|osascript]]、[[Product manual/ProductList/softwareupdate|softwareupdate]]、[[Product manual/ProductList/launchctl|launchctl]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-09
 
 ### 新增工具（3 个）

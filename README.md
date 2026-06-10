@@ -21,18 +21,18 @@
 
 > 完整列表见 [ProductList/](./ProductList/) 目录 · CHANGELOG 见 [CHANGELOG.md](./CHANGELOG.md)
 
-|| 工具 | 类别 | 简介 | 更新时间 |
-||------|------|------|---------|
-|| [date](./ProductList/date.md) | 🖥 命令行 | 日期时间显示与格式化工具，脚本中生成时间戳、计算 N 天前后、格式化输出 | 2026-06-09 |
-|| [file](./ProductList/file.md) | 🖥 命令行 | 文件类型检测工具，读取文件头部特征字节识别真实类型，不依赖扩展名 | 2026-06-09 |
-|| [ln](./ProductList/ln.md) | 🖥 命令行 | 文件链接工具（硬链接与符号链接），实现文件复用、dotfiles 管理和快捷访问 | 2026-06-09 |
-|| [vim](./ProductList/vim.md) | 🖥 命令行 | 终端文本编辑器，全键盘操作无需鼠标，SSH 改配置和代码编辑的标配 | 2026-06-08 |
-|| [column](./ProductList/column.md) | 🖥 命令行 | 终端表格排版工具，把杂乱的文本对齐成整齐的表格，看数据不再眼花 | 2026-06-08 |
-|| [comm](./ProductList/comm.md) | 🖥 命令行 | 文件行对比工具，逐行比较两个排序文件，找出共有和独有的内容 | 2026-06-08 |
-|| [plutil](./ProductList/plutil.md) | 🖥 命令行 | macOS plist 文件检查与转换工具，检查语法、读写字段、转换 JSON/XML/binary plist | 2026-06-07 |
-|| [osascript](./ProductList/osascript.md) | 🖥 命令行 | 在终端运行 AppleScript/JXA，自动控制 macOS 应用和系统动作 | 2026-06-07 |
-|| [softwareupdate](./ProductList/softwareupdate.md) | 🖥 命令行 | macOS 系统更新命令行工具，检查、下载、安装系统更新和完整安装器 | 2026-06-07 |
-|| [launchctl](./ProductList/launchctl.md) | 🖥 命令行 | macOS 服务/守护进程管理工具，控制 LaunchAgents 和 LaunchDaemons | 2026-06-06 |
+||| 工具 | 类别 | 简介 | 更新时间 |
+|||------|------|------|---------|
+||| [tcpdump](./ProductList/tcpdump.md) | 🖥 命令行 | 网络抓包分析工具，实时捕获和查看数据包，排查网络故障和协议调试 | 2026-06-11 |
+||| [netstat](./ProductList/netstat.md) | 🖥 命令行 | 网络连接与状态查看工具，查端口监听、连接状态、路由表和流量统计 | 2026-06-11 |
+||| [ifconfig](./ProductList/ifconfig.md) | 🖥 命令行 | 网络接口配置与查看工具，查 IP/MAC/连接状态，网络诊断第一步 | 2026-06-11 |
+||| [date](./ProductList/date.md) | 🖥 命令行 | 日期时间显示与格式化工具，脚本中生成时间戳、计算 N 天前后、格式化输出 | 2026-06-09 |
+||| [file](./ProductList/file.md) | 🖥 命令行 | 文件类型检测工具，读取文件头部特征字节识别真实类型，不依赖扩展名 | 2026-06-09 |
+||| [ln](./ProductList/ln.md) | 🖥 命令行 | 文件链接工具（硬链接与符号链接），实现文件复用、dotfiles 管理和快捷访问 | 2026-06-09 |
+||| [vim](./ProductList/vim.md) | 🖥 命令行 | 终端文本编辑器，全键盘操作无需鼠标，SSH 改配置和代码编辑的标配 | 2026-06-08 |
+||| [column](./ProductList/column.md) | 🖥 命令行 | 终端表格排版工具，把杂乱的文本对齐成整齐的表格，看数据不再眼花 | 2026-06-08 |
+||| [comm](./ProductList/comm.md) | 🖥 命令行 | 文件行对比工具，逐行比较两个排序文件，找出共有和独有的内容 | 2026-06-08 |
+||| [plutil](./ProductList/plutil.md) | 🖥 命令行 | macOS plist 文件检查与转换工具，检查语法、读写字段、转换 JSON/XML/binary plist | 2026-06-07 |
 
 > 每天新增 2-3 个工具 🔄
 
