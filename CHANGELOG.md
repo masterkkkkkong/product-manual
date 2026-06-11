@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-12
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[Product manual/ProductList/bc]] | 高精度命令行计算器，支持任意精度浮点运算、进制转换和数学函数 |
+| [[Product manual/ProductList/paste]] | 文件行合并工具，按列合并多个文件或串行化单文件内容 |
+| [[Product manual/ProductList/tr]] | 字符替换与删除工具，大小写转换、字符压缩、数据清洗 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/bc|bc]]、[[Product manual/ProductList/paste|paste]]、[[Product manual/ProductList/tr|tr]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/column|column]]、[[Product manual/ProductList/comm|comm]]、[[Product manual/ProductList/plutil|plutil]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-11
 
 ### 新增工具（3 个）
