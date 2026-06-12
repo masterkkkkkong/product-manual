@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-13
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[Product manual/ProductList/cal]] | 命令行日历显示，支持年月查看、前后月份切换、周一为首日 |
+| [[Product manual/ProductList/seq]] | 数字序列生成器，等差序列、批量命名、for 循环迭代、测试数据 |
+| [[Product manual/ProductList/printf]] | 格式化输出工具，对齐表格、补零、进制转换、浮点数精度控制 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/cal|cal]]、[[Product manual/ProductList/seq|seq]]、[[Product manual/ProductList/printf|printf]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/file|file]]、[[Product manual/ProductList/ln|ln]]、[[Product manual/ProductList/vim|vim]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-12
 
 ### 新增工具（3 个）
