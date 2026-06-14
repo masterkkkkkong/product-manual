@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-06-15
+
+### 新增工具（3 个）
+
+| 产品 | 说明 |
+|------|------|
+| [[Product manual/ProductList/python3]] | Python 解释器，交互式 REPL、-m 启动内置模块、命令行瑞士军刀 |
+| [[Product manual/ProductList/npx]] | Node.js 包执行器，免安装运行 CLI 工具、临时尝鲜、固定版本 |
+| [[Product manual/ProductList/fd]] | 超快文件查找工具，比 find 更快、语法更简单、支持批量操作 |
+
+### README 更新
+
+- 新增 [[Product manual/ProductList/python3|python3]]、[[Product manual/ProductList/npx|npx]]、[[Product manual/ProductList/fd|fd]] 三条记录（排在最前面）
+- 因达到 10 条限制，移除 [[Product manual/ProductList/netstat|netstat]]、[[Product manual/ProductList/ifconfig|ifconfig]]、[[Product manual/ProductList/date|date]] 条目（最旧记录）
+- 完整内容仍可通过 `ProductList/` 目录访问
+
+---
+
 ## 2026-06-13
 
 ### 新增工具（3 个）
